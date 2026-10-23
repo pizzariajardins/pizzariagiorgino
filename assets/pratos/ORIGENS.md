@@ -8,6 +8,8 @@ Uso no site autorizado expressamente pela proprietária em 22/10/2026 para publi
 
 ## Ampliação de 23/10/2026
 
+Revisão posterior: fotografia original enviada pela proprietária `novo-endereco - fachada.jpg` preservada em `../fotos/fachada-inicial.jpg` para a abertura. Desfoque e transição no CSS. Referências de pizzas enviadas como guias para novas artes, sem inserir essas referências na galeria. Novas saídas e prompts v2 em `ilustracoes/PROMPTS.md`.
+
 As artes oficiais foram preservadas. Nas duas versões em `edicoes/`, a ferramenta integrada ImageGen removeu somente o letreiro com a grafia minúscula da marca. Prompts: “Remover o letreiro giorgino no topo, preservando o prato, enquadramento, cores e ornamentos”; “Remover a frase Qual seu prato favorito da giorgino? na base, preservando o prato e a composição”. O logo oficial completo é aplicado pelo site no canto, também na ampliação. Os originais continuam neste diretório.
 
 - `pizza-paola.jpg`: https://www.instagram.com/giorginorestaurante/p/C_oeFW5sFUe/
