@@ -13,3 +13,5 @@ E-mail marcado em implantação até configurar a Hostinger. URL do iFood penden
 Instagram acessado após autenticação do proprietário. Publicações de clientes e colaboradores foram localizadas. Marcação ou colaboração no Instagram não foi tratada como autorização de uso externo: aguardar identificação dos conteúdos autorizados antes de incorporá-los ao site.
 
 Prévia apenas; index.html e DNS preservados. Inspeção visual do site no navegador continua pendente devido ao bloqueio anterior da ferramenta.
+
+Atualização de 22/10/2026: história revisada conforme orientação da proprietária, sem citar a Jardins, com origem na união do casal e homenagem ao Sr. Francisco, Sr. Nico e Professor Fernando. Uso de fotos publicadas no perfil oficial autorizado expressamente pela proprietária. Incluídas três artes de pratos, com origens registradas em assets/pratos/ORIGENS.md. Teste real: formulário preenchido, mensagem conferida no destino oficial e recebimento no WhatsApp da pizzaria confirmado pela proprietária; nenhum segundo envio foi realizado.
