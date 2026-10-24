@@ -32,3 +32,63 @@ button.dark,.contact,.light,.food-cta .btn-placeholder{background:#eeeae2!import
 .food-feature{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);gap:38px;align-items:center}.feature-picture{position:relative;min-height:340px;background:#161616;display:flex;align-items:center;justify-content:center;border:1px solid #353535}.feature-picture img{display:block;max-width:100%;max-height:580px;object-fit:contain}.feature-picture img[hidden]{display:none}.feature-picture>span{font:italic 21px Georgia;color:#aaa;padding:45px;text-align:center}.feature-controls{display:flex;justify-content:space-between;align-items:center;padding:16px 0}.feature-controls button{color:#fff;border:1px solid #777;background:transparent;padding:9px 16px}.feature-text h3{font:clamp(30px,4vw,52px)/1.14 Georgia;margin:15px 0}.feature-text .gastronomic{font:italic 21px/1.5 Georgia;color:#f2e8d8}.feature-text p:not(.eyebrow){line-height:1.65}.photo-note{font-size:12px;color:#a79f94!important;margin-top:25px}.food-items{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:35px 0 45px}.food-item{padding:18px;text-align:left;background:#141414;color:#ddd;border:1px solid #393939;display:flex;flex-direction:column;gap:8px}.food-item strong{font:20px Georgia}.food-item span{font:italic 14px/1.5 Georgia;color:#bcb3a8}.food-item.selected{border-color:#c7b59c;background:#1e1a15}
 .timeline-grid{display:grid;gap:20px}.timeline-grid article{display:grid;grid-template-columns:44% 1fr;align-items:center;gap:26px;padding:12px;border-bottom:1px solid #323232}.timeline-grid article:nth-child(even) img{order:2}.timeline-grid img{width:100%;max-height:300px;object-fit:cover}.timeline-grid h4{font:26px Georgia;margin:8px 0}.timeline-grid small{color:#d1b796}.history-timeline{margin:55px 0}.history-timeline h3{font:34px Georgia;margin:12px 0 25px}.restaurant-photo{padding:15px;max-width:660px}.restaurant-photo img{width:100%;max-height:430px;object-fit:cover}.visit-buttons{display:flex;gap:12px;flex-wrap:wrap;margin:20px 0}.outline-btn{display:inline-flex;align-items:center;border:1px solid #aaa;padding:15px 20px;color:#fff}.future-video{border:1px dashed #58514a;padding:25px;color:#fff;margin-top:20px}.floating-links{position:fixed;z-index:20;bottom:16px;right:16px;display:flex;flex-direction:column;gap:9px;align-items:flex-end}.floating-links>*{display:flex;gap:8px;align-items:center;padding:10px 15px;border-radius:25px;background:#eee8df;color:#171717!important;box-shadow:0 3px 20px #0005;font-size:12px;text-decoration:none}.floating-links .inactive{opacity:.55;cursor:default;background:#444;color:#eee!important;border:1px solid #888}
 @media(max-width:850px){.hero{min-height:auto!important}.food-feature{grid-template-columns:1fr}.timeline-grid article{grid-template-columns:1fr}.timeline-grid article:nth-child(even) img{order:0}.food-items{grid-template-columns:1fr}.hero-facade{max-width:100%}.floating-links>* span{display:none}.floating-links>*{border-radius:50%;width:46px;height:46px;justify-content:center;padding:0}}
+
+/* GIORGINO — IDENTIDADE VISUAL PRETO E BRANCO */
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body {
+  background-color: #080808;
+  color: #ffffff;
+}
+
+/* Padronização das seções */
+body main,
+body main > section,
+body main > div,
+body footer,
+body .story,
+body .food,
+body .institutional-food,
+body .gallery,
+body .visit,
+body .reservations,
+body .closing,
+body .full-footer {
+  background-color: #080808;
+  color: #ffffff;
+}
+
+/* Textos e títulos */
+body h1,
+body h2,
+body h3,
+body h4,
+body p,
+body .section-head,
+body .sample-category,
+body .menu-selection {
+  color: #ffffff;
+}
+
+/* Campos e formulários */
+body input,
+body select,
+body textarea {
+  background-color: #181818;
+  color: #ffffff;
+  border: 1px solid #777777;
+}
+
+body input::placeholder,
+body textarea::placeholder {
+  color: #bcbcbc;
+}
+
+/* Divisórias */
+body hr {
+  border-color: #494949;
+}
